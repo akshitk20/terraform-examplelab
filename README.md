@@ -4,3 +4,8 @@
 3) Created VPC and subnets
 4) Created firwall rules
 5) Import modules from registry
+
+
+# To run the application have Terraform installed and run the main.tf file using 
+terraform init
+terraform apply

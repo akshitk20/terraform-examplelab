@@ -1,0 +1,10 @@
+
+*.log
+*.json
+*.tf
+.codeoss/data/token
+*.lock
+*.ps1
+*.0_x5
+.terraform/modules/vpc/
+*.2_x5
